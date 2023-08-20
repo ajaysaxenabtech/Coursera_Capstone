@@ -1,5 +1,3 @@
-# IBM-Applied-Data-Science-Capstone
-
 # Project Environment
 SpaceX stands out as a trailblazer in the realm of commercial space endeavors, having achieved remarkable success in revolutionizing space travel by rendering it more financially viable. Central to this accomplishment is their prowess in redefining the economics of spaceflight. Their website prominently showcases Falcon 9 rocket launches, an innovation exemplified by a price tag of $62 million. In stark contrast, other spaceflight providers demand a staggering $165 million or more for each launch. The stark disparity in costs can be largely attributed to SpaceX's pioneering approach of recycling the initial stage of their rockets.<br>
 The ingenious strategy of reusability is at the heart of SpaceX's financial ingenuity. By recovering and refurbishing the primary stage of their rockets, SpaceX has managed to significantly trim expenses, making space travel a more affordable proposition than ever before. This novel practice not only minimizes the wastage of resources but also contributes substantially to the cost-effectiveness of their operations.<br>
@@ -13,9 +11,7 @@ What is the best algorithm that can be used for binary classification in this ca
 
 
 
-# :rocket: Applied Data Science Capstone
-This Capstone is the 10th (final) course in [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) specialization, and it actually summarizes in the form of project all materials that have been learned during this specialization.
-
+# 📡 IBM-Applied-Data-Science-Capstone
 Capstone project, which serves as the concluding and tenth course in [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science). This final project is designed to consolidate and showcase all the knowledge and skills I have acquired throughout the entire specialization.<br> 
 The primary objective of this Capstone project is to encapsulate the breadth and depth of my learning journey by integrating the various concepts, techniques, and methodologies covered in the previous nine courses. It provides a comprehensive overview of data science principles, data manipulation, exploratory data analysis, machine learning algorithms, and data visualization that I have been exposed to.<br>Through this project, I am expected to address a real-world problem or scenario using the skills I've gained. This involves not only applying data collection, cleaning, analysis, and modeling techniques but also effectively communicating my findings and insights to both technical and non-technical audiences.<br> By synthesizing the learned material into a practical project, I can effectively demonstrate my ability to tackle complex data-driven challenges. This Capstone project acts as a testament to my proficiency in data science and serves as a significant addition to my portfolio, showcasing my readiness to contribute effectively in a professional data science role.
 
